@@ -1,2 +1,2 @@
 #!/bin/bash
--type f -exec chmod 777 
+chmod -R +111 */ 
